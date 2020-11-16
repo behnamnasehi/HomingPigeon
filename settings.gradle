@@ -1,0 +1,3 @@
+include ':SupportConnection'
+include ':app'
+rootProject.name = "Support Chat Service"

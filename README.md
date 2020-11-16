@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/behnamnasehi/HomingPigeon.svg)](https://jitpack.io/#behnamnasehi/HomingPigeon)
 # HomingPigeon
 Online Chat Support Service
 
@@ -18,7 +19,7 @@ Step 2. Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.github.behnamnasehi:HomingPigeon:Tag'
+	         implementation 'com.github.behnamnasehi:HomingPigeon:64d4ccadf7'
 	}
 ```
 
